@@ -138,7 +138,7 @@ export default function HomePage() {
 
                 Professional{" "}
 
-                <span className="text-gradient bg-gradient-trading drop-shadow-none">Algorithmic Trading</span>{" "}
+                <span className="text-hero bg-gradient-trading drop-shadow-none ">Algorithmic Trading</span>{" "}
 
                 Solutions
 
