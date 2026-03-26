@@ -70,7 +70,7 @@ export function Header() {
             <Link
               key={item.name}
               to={item.href}
-              className={`text-sm font-medium transition-colors hover:text-primary ${
+              className={`text-lx font-medium transition-colors hover:text-primary ${
                 location.pathname === item.href
                   ? "text-primary"
                   : "text-muted-foreground"
