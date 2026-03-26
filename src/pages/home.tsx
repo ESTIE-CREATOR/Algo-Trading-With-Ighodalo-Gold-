@@ -256,7 +256,7 @@ export default function HomePage() {
             <ScrollReveal direction="up" delay={0.5}>
               <p className="mt-4 text-xl text-white/90 font-semibold drop-shadow-md">
 
-                30-day money-back guarantee • Lifetime updates • 24/7 support
+                30-Day Confidence Guarantee • Lifetime updates • 24/7 support
 
               </p>
             </ScrollReveal>
